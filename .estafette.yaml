@@ -3,6 +3,7 @@ builder:
 
 labels:
   app-group: estafette-controllers
+  type: service
   team: estafette-team
   language: golang
 
